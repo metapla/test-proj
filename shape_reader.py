@@ -1,3 +1,7 @@
+"""
+Shapeファイルを読み込むプログラム
+T.Imaizumi
+"""
 import geopandas as gpd
 import matplotlib.pyplot as plt
 import os

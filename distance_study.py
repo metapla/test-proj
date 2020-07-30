@@ -1,6 +1,6 @@
 """
 shapelyを使用してオブジェクトの位置関係を調べるプログラム
-札幌管区気象台予報課　洪水情報係長　今泉
+T.Imaizumi
 <参考にしたページ>
 https://qiita.com/mamurata0924/items/23ab860f4d7429207fac
 """
